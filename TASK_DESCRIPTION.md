@@ -2,6 +2,8 @@
 
 > "If you look at a dollar bill under a microscope, it looks like a mountain range of ink. If you look at a fake, it looks like a flat swamp of dots. This AI doesn't 'see' the face of the president; it 'feels' the roughness of the mountains."
 
+![Illustration](images/illustration.png)
+
 This dataset wasn't created by manually measuring banknotes with a ruler. It comes from a study at the **University of Applied Sciences Ostwestfalen-Lippe (Germany)**.
 
 Because professional printing is so physically different from home printing, a neural network (even a small one) can separate these classes very easily. You should expect very high accuracy (98-100%).
