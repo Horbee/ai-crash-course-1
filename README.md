@@ -30,7 +30,7 @@ This project uses [uv](https://github.com/astral-sh/uv) for dependency managemen
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Horbee/ai-crash-course-1.git
 cd ai-crash-course-1
 
 # Install uv if you don't have already
